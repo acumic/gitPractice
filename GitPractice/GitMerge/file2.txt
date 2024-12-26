@@ -1,0 +1,4 @@
+Ovde je promena za commit na masteru
+Ovde je druga promena za commit na masteru
+Ovo je conflict promena na 3branch
+Ovo je conflict promena na masteru

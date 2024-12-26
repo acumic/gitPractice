@@ -1,0 +1,7 @@
+Abc
+Efg
+Hij
+Promena1
+Promena2
+Promena za Merge (no conflicts)
+Druga promena za Merge (no conflicts)
